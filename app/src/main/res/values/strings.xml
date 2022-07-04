@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShuiNyan</string>
+    <string name="app_version_main">220704</string>
+    <string name="app_version_database">220704</string>
+
+    <string name="search_tips">首里方言や日本語を入力してください</string>
+    <string name="search_clear">×</string>
+    <string name="result_list_upper">上部1234567890上部1234567890</string>
+    <string name="result_list_bottom">下部1234567890下部1234567890下部1234567890</string>
+
+    <string name="button_confirm">确定</string>
+    <string name="entry_menu_copy_chara">コピー</string>
+    <string name="result_list_left">左邊一二三</string>
+    <string name="menu_appendix">說明</string>
+
+</resources>
